@@ -1,0 +1,33 @@
+{
+  "baseURL": "https://tolkunov.dev/",
+  "locale": "en-us",
+  "title": "Ivan Tolkunov",
+  "enableRobotsTXT": true,
+  "pagination": {
+    "pagerSize": 1
+  },
+  "menu": {
+    "main": [
+      {
+        "identifier": "posts",
+        "name": "Posts",
+        "title": "Posts",
+        "url": "/posts",
+        "weight": 3
+      },
+      {
+        "identifier": "bio",
+        "name": "Bio",
+        "title": "Bio",
+        "url": "/bio",
+        "weight": 4
+      },
+      {
+        "identifier": "github",
+        "name": "GitHub",
+        "title": "GitHub",
+        "url": "https://github.com/ivan-tolkunov"
+      }
+    ]
+  }
+}

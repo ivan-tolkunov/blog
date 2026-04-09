@@ -1,0 +1,11 @@
+{{ define "main" }} {{ .Content }}
+<hr />
+
+<h3>My thoughts on:</h3>
+
+{{ $posts := where .Site.RegularPages "Type" "posts" }} {{ range first 5
+($posts.ByDate.Reverse) }}
+<article>
+    <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+</article>
+{{ end }} {{ end }}
