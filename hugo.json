@@ -9,6 +9,13 @@
   "menu": {
     "main": [
       {
+        "identifier": "main",
+        "name": "Main",
+        "title": "Main",
+        "url": "/",
+        "weight": 1
+      },
+      {
         "identifier": "posts",
         "name": "Posts",
         "title": "Posts",
