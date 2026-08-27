@@ -8,6 +8,8 @@ tags:
   - personal
 ---
 
+[![Herdr](/images/herdr.png)](/images/herdr.png)
+
 I've been using Linux as my main OS for the last year. My laptop is a base [Framework 13 Ultra Series 1 DIY Edition](https://frame.work/ca/en/products/laptop13-diy-amd-ai300/configuration/new) with 16 GB of memory.
 
 For a long time, that was enough. I used it for coding, everyday work, browsing, music, and normal development. I was happy because I finally had something that felt like an Apple alternative, but with a system I could shape exactly how I wanted.
