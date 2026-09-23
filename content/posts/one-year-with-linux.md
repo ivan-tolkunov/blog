@@ -120,7 +120,7 @@ I use [Tailscale](https://tailscale.com/) with an exit node on my Raspberry Pi a
 
 ## Terminal
 
-As my main terminal, I use [Ghostty](https://ghostty.org/). I don't know what to say - it's fast and reliable. I use [Fish](https://fishshell.com/) as my shell and [Herdr](https://herdr.dev/) for sessions. You can find more about it in my previous blog post.
+As my main terminal, I use [Ghostty](https://ghostty.org/). I don't know what to say - it's fast and reliable. I use [Fish](https://fishshell.com/) as my shell and [Herdr](https://herdr.dev/) for sessions. You can find more about it in my previous blog [post](/posts/remote-workflow/).
 
 As a second terminal, I use Alacritty to work with the browser and terminal at the same time. It's really helpful if I need to enter a command quickly and don't want to switch workspaces.
 
